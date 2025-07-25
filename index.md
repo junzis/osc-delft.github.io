@@ -1,5 +1,8 @@
 ---
-layout: page
+layout: redirected
+sitemap: false
+permalink: /
+redirect_to: https://www.tudelft.nl/en/open-science/community
 title: Open Science Community Delft
 image: /images/about2.jpg
 photos:
